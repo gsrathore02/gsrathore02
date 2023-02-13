@@ -1,7 +1,5 @@
 
 <--
-**gsrathore02/gsrathore02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello Anon  I'm Gulab, Working as a Linux Administrator
 
 Here are some ideas to get you started:
